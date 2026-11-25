@@ -43,6 +43,10 @@ git commit -m"fix: popraw element input"
 git commit -m"docs: zaktualizuj readme.md"
 ```
 ## 5. Zgłoszenia (Issues)
+Jeśli chcesz dołączyć do projektu utwórz ISSUE z dostępnych szablonów
+- zmiany w dokumetacji
+- nowa funkcjonalność
+- zgłoszenie błędu
 
 ## 6. Pull Requests
 
